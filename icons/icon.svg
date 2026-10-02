@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="rgb(74, 144, 255)"/><stop offset="1" stop-color="rgb(52, 211, 140)"/></linearGradient></defs>
+<rect width="512" height="512" rx="112" fill="rgb(9, 18, 31)"/>
+<defs><radialGradient id="p" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#16406E"/><stop offset="1" stop-color="#0C3A3C"/></radialGradient><clipPath id="c"><circle cx="256" cy="256" r="168"/></clipPath></defs>
+<circle cx="256" cy="256" r="168" fill="url(#p)"/>
+<g clip-path="url(#c)" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="7"><ellipse cx="256" cy="256" rx="168" ry="56"/><ellipse cx="256" cy="256" rx="76" ry="168"/><path d="M88 176h336M88 336h336"/></g>
+<circle cx="256" cy="256" r="168" fill="none" stroke="url(#g)" stroke-width="24"/>
+<g fill="url(#g)"><rect x="124.0" y="224.0" width="24" height="64" rx="12.0"/><rect x="164.0" y="181.0" width="24" height="150" rx="12.0"/><rect x="204.0" y="138.0" width="24" height="236" rx="12.0"/><rect x="244.0" y="168.0" width="24" height="176" rx="12.0"/><rect x="284.0" y="125.0" width="24" height="262" rx="12.0"/><rect x="324.0" y="190.0" width="24" height="132" rx="12.0"/><rect x="364.0" y="220.0" width="24" height="72" rx="12.0"/></g></svg>
