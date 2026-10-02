@@ -11,7 +11,7 @@
 [![No audio files](https://img.shields.io/badge/audio-100%25%20synthesised-8B5CF6)](#how-it-works)
 [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)](#project-structure)
 
-**[▶ Open the live app](https://github.com/soorajacontec/ravam/index.html)**
+**[▶ Open the live app](https://soorajacontec.github.io/ravam/)**
 
 </div>
 
