@@ -1,4 +1,4 @@
-// Lull service worker: app shell cached on install, fonts cached on first use.
+// RAVAM service worker: app shell cached on install, fonts cached on first use.
 const VERSION = 'ravam-v31';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
