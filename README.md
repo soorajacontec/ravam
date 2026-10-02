@@ -131,14 +131,6 @@ python3 -m http.server 8000
 
 Then open `http://localhost:3000` (serve) or `http://localhost:8000` (Python).
 
-## Deploy to GitHub Pages
-
-1. Push this folder to a GitHub repository, with `index.html` at the repository root.
-2. Go to **Settings → Pages → Build and deployment**, choose **Deploy from a branch**, then pick `main` and `/ (root)`.
-3. Wait about a minute, then open `https://YOUR-USERNAME.github.io/YOUR-REPO/`.
-4. Replace the placeholder link at the top of this README with that address.
-
-All paths in the app are relative, so it works from a sub-folder like `/YOUR-REPO/` without changes. The empty `.nojekyll` file tells GitHub Pages to serve the files as they are.
 
 ## How it works
 
